@@ -1,0 +1,27 @@
+# gspm project.yml <https://gs-project-manager-docs.readthedocs.io/en/latest/schema.html>
+name: Metroidvania
+path: .
+version: 0.0.0
+default_type: git
+author: Author Name
+email: author@address.com
+twitter: (at)twitter
+copyright: Copyright (c) 1999
+license: License Type
+godot:
+  version: 3.2.2
+  arch: 64
+  mono: False
+
+project:
+  url: none
+  
+assets:
+      
+pre_install:
+
+post_install:
+
+pre_build:
+
+post_build:
